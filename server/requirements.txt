@@ -1,0 +1,8 @@
+﻿fastapi
+uvicorn[standard]
+python-multipart
+mysql-connector-python
+streamlit
+requests
+pillow
+python-dotenv
